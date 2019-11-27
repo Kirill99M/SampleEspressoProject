@@ -1,0 +1,222 @@
+{
+  "uid" : "4824bb869d3cf993",
+  "name" : "Проверка удаления заметки",
+  "fullName" : "com.moonpi.swiftnotes.test.Tests.checkDeleteNote",
+  "historyId" : "fb2f58040ec3ff235505abfce68d68fc",
+  "time" : {
+    "start" : 1574859042361,
+    "stop" : 1574859058467,
+    "duration" : 16106
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Запуск приложения",
+      "time" : {
+        "start" : 1574859042365,
+        "stop" : 1574859045296,
+        "duration" : 2931
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a980a7ce008faac",
+        "name" : "page_display",
+        "source" : "7a980a7ce008faac.png",
+        "type" : "image/png",
+        "size" : 56444
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Создание новой заметки",
+      "time" : {
+        "start" : 1574859045296,
+        "stop" : 1574859047455,
+        "duration" : 2159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e13f98941c8d449e",
+        "name" : "page_display",
+        "source" : "e13f98941c8d449e.png",
+        "type" : "image/png",
+        "size" : 101578
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Ввод текста в Title",
+      "time" : {
+        "start" : 1574859047455,
+        "stop" : 1574859049286,
+        "duration" : 1831
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4af36fcbecc0f453",
+        "name" : "page_display",
+        "source" : "4af36fcbecc0f453.png",
+        "type" : "image/png",
+        "size" : 97909
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Ввод текста в Note",
+      "time" : {
+        "start" : 1574859049286,
+        "stop" : 1574859051330,
+        "duration" : 2044
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "998dea1536a7c8d5",
+        "name" : "page_display",
+        "source" : "998dea1536a7c8d5.png",
+        "type" : "image/png",
+        "size" : 98810
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Выход из заметки",
+      "time" : {
+        "start" : 1574859051330,
+        "stop" : 1574859052574,
+        "duration" : 1244
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "46a5c4772025f636",
+        "name" : "page_display",
+        "source" : "46a5c4772025f636.png",
+        "type" : "image/png",
+        "size" : 54795
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "клик Yes в диалоге сохранения",
+      "time" : {
+        "start" : 1574859052574,
+        "stop" : 1574859054105,
+        "duration" : 1531
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a4faa137a4b569b6",
+        "name" : "page_display",
+        "source" : "a4faa137a4b569b6.png",
+        "type" : "image/png",
+        "size" : 67492
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Удаление заметки",
+      "time" : {
+        "start" : 1574859054105,
+        "stop" : 1574859057419,
+        "duration" : 3314
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e15e75c151338cf8",
+        "name" : "page_display",
+        "source" : "e15e75c151338cf8.png",
+        "type" : "image/png",
+        "size" : 61953
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Проверка удаления заметки",
+      "time" : {
+        "start" : 1574859057419,
+        "stop" : 1574859057751,
+        "duration" : 332
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b536d81ad0013978",
+        "name" : "page_display",
+        "source" : "b536d81ad0013978.png",
+        "type" : "image/png",
+        "size" : 61953
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 8
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.moonpi.swiftnotes.test"
+  }, {
+    "name" : "testClass",
+    "value" : "com.moonpi.swiftnotes.test.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkDeleteNote"
+  }, {
+    "name" : "suite",
+    "value" : "com.moonpi.swiftnotes.test.Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4824bb869d3cf993.json",
+  "parameterValues" : [ ]
+}

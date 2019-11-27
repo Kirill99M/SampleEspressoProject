@@ -1,0 +1,208 @@
+{
+  "fullName": "com.moonpi.swiftnotes.test.Tests.exitFromHintWithSave",
+  "historyId": "f82c3416910bc38b35308554ef9024a",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.moonpi.swiftnotes.test"
+    },
+    {
+      "name": "testClass",
+      "value": "com.moonpi.swiftnotes.test.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "exitFromHintWithSave"
+    },
+    {
+      "name": "suite",
+      "value": "com.moonpi.swiftnotes.test.Tests"
+    }
+  ],
+  "links": [],
+  "uuid": "com.moonpi.swiftnotes.test.Tests#exitFromHintWithSave",
+  "attachments": [],
+  "name": "Проверка сохранения заметки",
+  "parameters": [],
+  "stage": "finished",
+  "start": 1574859063961,
+  "status": "passed",
+  "steps": [
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "1ad83418-620e-41dd-9d64-197719c7144a-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Запуск приложения",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859063962,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859065992
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "686dd2be-ef00-4d4c-b361-b2d104645bf2-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Создание заметки",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859065993,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859068012
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "c3309a3e-133e-40ee-bb41-a8f6df43be40-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Ввод текста в Title",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859068012,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859069736
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "80c8f7ea-5b21-4b85-a996-28190c146c9a-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Ввод текста в Note",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859069736,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859071692
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "e9022388-c96c-4fa3-8011-608db6eba07f-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Проверка корректного текста в Title",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859071692,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859071926
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "04c19933-954a-4454-b50f-9d61fe1232f1-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Проверка корректного текста в Note",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859071926,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859072216
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "a97a9727-1595-447f-95da-3c9bcf6b08a2-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Выход из заметки",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859072217,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859073420
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "d2da3e3d-9be6-4b9b-ae05-35de9d22289e-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "клик Yes в диалоге сохранения",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859073420,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859074943
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "30f165cc-e90d-4ba0-b798-68eb6346fbd3-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Проверка сохраненной заметки на главном экране",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859074943,
+      "status": "passed",
+      "steps": [
+        {
+          "attachments": [],
+          "name": "Проверка перехода на главный экран",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859074943,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859074949
+        },
+        {
+          "attachments": [],
+          "name": "Проверка отображения title",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859074949,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859074952
+        },
+        {
+          "attachments": [],
+          "name": "Проверка отображения note",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859074952,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859074956
+        }
+      ],
+      "stop": 1574859075190
+    }
+  ],
+  "stop": 1574859076621
+}

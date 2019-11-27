@@ -1,0 +1,273 @@
+{
+  "uid" : "6fac96725b2b8867",
+  "name" : "Проверка пунктов меню в тулбаре",
+  "fullName" : "com.moonpi.swiftnotes.test.Tests.checkMenuInToolbar",
+  "historyId" : "bd34db7164abe4abdf1b4946aaf44b96",
+  "time" : {
+    "start" : 1574859076674,
+    "stop" : 1574859085516,
+    "duration" : 8842
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Запуск приложения",
+      "time" : {
+        "start" : 1574859076676,
+        "stop" : 1574859078293,
+        "duration" : 1617
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb9826b12959daf5",
+        "name" : "page_display",
+        "source" : "eb9826b12959daf5.png",
+        "type" : "image/png",
+        "size" : 57257
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Клик на меню на главной странице",
+      "time" : {
+        "start" : 1574859078294,
+        "stop" : 1574859079235,
+        "duration" : 941
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "38441f5d8f53eebf",
+        "name" : "page_display",
+        "source" : "38441f5d8f53eebf.png",
+        "type" : "image/png",
+        "size" : 71008
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Проверка пунктов меню на главной странице",
+      "time" : {
+        "start" : 1574859079235,
+        "stop" : 1574859080645,
+        "duration" : 1410
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Проверка Backup notes",
+        "time" : {
+          "start" : 1574859079235,
+          "stop" : 1574859079470,
+          "duration" : 235
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "b6904e21b5361cd2",
+          "name" : "page_display",
+          "source" : "b6904e21b5361cd2.png",
+          "type" : "image/png",
+          "size" : 71008
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Проверка Restore notes",
+        "time" : {
+          "start" : 1574859079470,
+          "stop" : 1574859079701,
+          "duration" : 231
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "839806cdb20dbb59",
+          "name" : "page_display",
+          "source" : "839806cdb20dbb59.png",
+          "type" : "image/png",
+          "size" : 71008
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Проверка Rate app",
+        "time" : {
+          "start" : 1574859079701,
+          "stop" : 1574859080645,
+          "duration" : 944
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "581127891d77e20f",
+          "name" : "page_display",
+          "source" : "581127891d77e20f.png",
+          "type" : "image/png",
+          "size" : 71008
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 3
+    }, {
+      "name" : "Создание новой заметки",
+      "time" : {
+        "start" : 1574859080646,
+        "stop" : 1574859082416,
+        "duration" : 1770
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a4d272601ad89063",
+        "name" : "page_display",
+        "source" : "a4d272601ad89063.png",
+        "type" : "image/png",
+        "size" : 102347
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Клик на меню на странице редактирования",
+      "time" : {
+        "start" : 1574859082416,
+        "stop" : 1574859084046,
+        "duration" : 1630
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7fede5c06f0c5bc0",
+        "name" : "page_display",
+        "source" : "7fede5c06f0c5bc0.png",
+        "type" : "image/png",
+        "size" : 48101
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Проверка пунктов меню на странице редактирования",
+      "time" : {
+        "start" : 1574859084047,
+        "stop" : 1574859084753,
+        "duration" : 706
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Проверка Note font size",
+        "time" : {
+          "start" : 1574859084048,
+          "stop" : 1574859084505,
+          "duration" : 457
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "5ed5b3678f593d6d",
+          "name" : "page_display",
+          "source" : "5ed5b3678f593d6d.png",
+          "type" : "image/png",
+          "size" : 48101
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      }, {
+        "name" : "Проверка Hide note body in list",
+        "time" : {
+          "start" : 1574859084506,
+          "stop" : 1574859084753,
+          "duration" : 247
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "d62b709369f0076",
+          "name" : "page_display",
+          "source" : "d62b709369f0076.png",
+          "type" : "image/png",
+          "size" : 48101
+        } ],
+        "parameters" : [ ],
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 9,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 11
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.moonpi.swiftnotes.test"
+  }, {
+    "name" : "testClass",
+    "value" : "com.moonpi.swiftnotes.test.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkMenuInToolbar"
+  }, {
+    "name" : "suite",
+    "value" : "com.moonpi.swiftnotes.test.Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fac96725b2b8867.json",
+  "parameterValues" : [ ]
+}

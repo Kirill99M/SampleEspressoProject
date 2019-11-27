@@ -1,0 +1,77 @@
+{
+  "bd34db7164abe4abdf1b4946aaf44b96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fac96725b2b8867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574859076674,
+        "stop" : 1574859085516,
+        "duration" : 8842
+      }
+    } ]
+  },
+  "4b02cbfa19db2451c2920c01575f92cd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5daf91d09e3ee996",
+      "status" : "broken",
+      "statusDetails" : "No views in hierarchy found matching: with id: android:id/button2",
+      "time" : {
+        "start" : 1574859058572
+      }
+    } ]
+  },
+  "f82c3416910bc38b35308554ef9024a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5e689669de742f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574859063961,
+        "stop" : 1574859076621,
+        "duration" : 12660
+      }
+    } ]
+  },
+  "fb2f58040ec3ff235505abfce68d68fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4824bb869d3cf993",
+      "status" : "passed",
+      "time" : {
+        "start" : 1574859042361,
+        "stop" : 1574859058467,
+        "duration" : 16106
+      }
+    } ]
+  }
+}

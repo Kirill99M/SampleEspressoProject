@@ -1,0 +1,199 @@
+{
+  "fullName": "com.moonpi.swiftnotes.test.Tests.checkMenuInToolbar",
+  "historyId": "bd34db7164abe4abdf1b4946aaf44b96",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.moonpi.swiftnotes.test"
+    },
+    {
+      "name": "testClass",
+      "value": "com.moonpi.swiftnotes.test.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "checkMenuInToolbar"
+    },
+    {
+      "name": "suite",
+      "value": "com.moonpi.swiftnotes.test.Tests"
+    }
+  ],
+  "links": [],
+  "uuid": "com.moonpi.swiftnotes.test.Tests#checkMenuInToolbar",
+  "attachments": [],
+  "name": "Проверка пунктов меню в тулбаре",
+  "parameters": [],
+  "stage": "finished",
+  "start": 1574859076674,
+  "status": "passed",
+  "steps": [
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "73f65a99-aba1-4a12-82c6-5cff712723d9-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Запуск приложения",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859076676,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859078293
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "0a8915e9-ba76-4cfc-9b55-c1779883c7e2-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Клик на меню на главной странице",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859078294,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859079235
+    },
+    {
+      "attachments": [],
+      "name": "Проверка пунктов меню на главной странице",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859079235,
+      "status": "passed",
+      "steps": [
+        {
+          "attachments": [
+            {
+              "name": "page_display",
+              "source": "0870c6fe-108d-4b7f-888c-1de3ff5c330f-attachment.png",
+              "type": "image/png"
+            }
+          ],
+          "name": "Проверка Backup notes",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859079235,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859079470
+        },
+        {
+          "attachments": [
+            {
+              "name": "page_display",
+              "source": "333f937b-2ce5-4a00-92e1-7fb9fea7b229-attachment.png",
+              "type": "image/png"
+            }
+          ],
+          "name": "Проверка Restore notes",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859079470,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859079701
+        },
+        {
+          "attachments": [
+            {
+              "name": "page_display",
+              "source": "a20d4775-82ba-450d-a913-45f7c38699f6-attachment.png",
+              "type": "image/png"
+            }
+          ],
+          "name": "Проверка Rate app",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859079701,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859080645
+        }
+      ],
+      "stop": 1574859080645
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "04f64d04-6cf0-4862-9b0e-6a501f74cdb0-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Создание новой заметки",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859080646,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859082416
+    },
+    {
+      "attachments": [
+        {
+          "name": "page_display",
+          "source": "a9d963c3-c68d-4eca-8f48-ee0994bec8d9-attachment.png",
+          "type": "image/png"
+        }
+      ],
+      "name": "Клик на меню на странице редактирования",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859082416,
+      "status": "passed",
+      "steps": [],
+      "stop": 1574859084046
+    },
+    {
+      "attachments": [],
+      "name": "Проверка пунктов меню на странице редактирования",
+      "parameters": [],
+      "stage": "finished",
+      "start": 1574859084047,
+      "status": "passed",
+      "steps": [
+        {
+          "attachments": [
+            {
+              "name": "page_display",
+              "source": "1d7ed8dc-0f3e-4166-9300-1d63296089b4-attachment.png",
+              "type": "image/png"
+            }
+          ],
+          "name": "Проверка Note font size",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859084048,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859084505
+        },
+        {
+          "attachments": [
+            {
+              "name": "page_display",
+              "source": "b01ab25e-e5d0-4a1f-8a31-65f4e89aa427-attachment.png",
+              "type": "image/png"
+            }
+          ],
+          "name": "Проверка Hide note body in list",
+          "parameters": [],
+          "stage": "finished",
+          "start": 1574859084506,
+          "status": "passed",
+          "steps": [],
+          "stop": 1574859084753
+        }
+      ],
+      "stop": 1574859084753
+    }
+  ],
+  "stop": 1574859085516
+}

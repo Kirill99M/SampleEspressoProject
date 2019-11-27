@@ -1,0 +1,15 @@
+{
+  "afters": [],
+  "befores": [],
+  "children": [
+    "com.moonpi.swiftnotes.test.Tests#checkDeleteNote",
+    "com.moonpi.swiftnotes.test.Tests#exitFromHintWithoutSave",
+    "com.moonpi.swiftnotes.test.Tests#exitFromHintWithSave",
+    "com.moonpi.swiftnotes.test.Tests#checkMenuInToolbar"
+  ],
+  "links": [],
+  "name": "com.moonpi.swiftnotes.test.Tests",
+  "start": 1574858641761,
+  "stop": 1574858704096,
+  "uuid": "4ce38d3f-ca02-4b5e-8f23-42f722b40b08"
+}

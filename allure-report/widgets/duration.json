@@ -1,0 +1,39 @@
+[ {
+  "uid" : "6fac96725b2b8867",
+  "name" : "Проверка пунктов меню в тулбаре",
+  "time" : {
+    "start" : 1574859076674,
+    "stop" : 1574859085516,
+    "duration" : 8842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5e689669de742f3",
+  "name" : "Проверка сохранения заметки",
+  "time" : {
+    "start" : 1574859063961,
+    "stop" : 1574859076621,
+    "duration" : 12660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4824bb869d3cf993",
+  "name" : "Проверка удаления заметки",
+  "time" : {
+    "start" : 1574859042361,
+    "stop" : 1574859058467,
+    "duration" : 16106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5daf91d09e3ee996",
+  "name" : "Проверка выхода из заметки без сохранения",
+  "time" : {
+    "start" : 1574859058572
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

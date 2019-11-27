@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 27 15:51:16 MSK 2019","Wed Nov 27 15:51:25 MSK 2019","8842","","com.moonpi.swiftnotes.test.Tests","","com.moonpi.swiftnotes.test.Tests","checkMenuInToolbar","Проверка пунктов меню в тулбаре",""
+"passed","Wed Nov 27 15:51:03 MSK 2019","Wed Nov 27 15:51:16 MSK 2019","12660","","com.moonpi.swiftnotes.test.Tests","","com.moonpi.swiftnotes.test.Tests","exitFromHintWithSave","Проверка сохранения заметки",""
+"passed","Wed Nov 27 15:50:42 MSK 2019","Wed Nov 27 15:50:58 MSK 2019","16106","","com.moonpi.swiftnotes.test.Tests","","com.moonpi.swiftnotes.test.Tests","checkDeleteNote","Проверка удаления заметки",""
+"broken","Wed Nov 27 15:50:58 MSK 2019","","","","com.moonpi.swiftnotes.test.Tests","","com.moonpi.swiftnotes.test.Tests","exitFromHintWithoutSave","Проверка выхода из заметки без сохранения",""

@@ -1,0 +1,24 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "No views in hierarchy found matching: with id: android:id/button2",
+      "children" : [ {
+        "name" : "Проверка выхода из заметки без сохранения",
+        "uid" : "5daf91d09e3ee996",
+        "parentUid" : "be3bf9134208e30e4552a2e271e16ae4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1574859058572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "be3bf9134208e30e4552a2e271e16ae4"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
